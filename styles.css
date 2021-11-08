@@ -1,0 +1,78 @@
+#title{
+    background-color: #ff4c68;
+}
+.meat-doggo{
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight:bolder;
+    color: white;
+    margin-bottom: 40px;
+    margin-top: 10px;
+    font-style: italic;
+}
+.container-flud{
+    padding:3% 15% ;
+}
+.iphone6{
+    transform: rotate(15deg);
+    
+}
+.navbar-brand q{
+    font-size: 20px;
+}
+#testimonials{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+}
+.doggyopinion{
+    font-size: 3rem;
+    font-weight:bolder;
+    font-style: italic;
+}
+.doggyimg{
+    border-radius: 100px;
+    width: 150px;
+    margin-top: 40px;
+}
+#press{
+    background-color:#ef8172 ;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.press-logo{
+    width: 200px;
+    margin:20px 20px 50px;
+}
+#features{
+    background-color: #fff;
+
+}
+@media  (max-width:974px){
+    .iphone6{
+        width: 200px;
+        margin-left: 260px;
+    }
+    #features{
+        text-align: center;
+    }
+}
+#cta{
+    height: 300px;
+    background-color: #ff4c68;
+}
+.feautre-box{
+    text-align: center;
+    padding: 5%;
+}
+.pboy{
+    color: #8f8f8f;
+}
+.icon{
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+.icon:hover{
+    color:#ff4c68 ;
+}
